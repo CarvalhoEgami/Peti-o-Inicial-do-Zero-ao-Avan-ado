@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petição Inicial: Do Zero ao Avançado</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #6a1b9a; /* Roxo */
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .container {
+            padding: 40px;
+        }
+        .module, .bonus {
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #6a1b9a;
+        }
+        footer {
+            background-color: #121530;
+            color: #bbb;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+        footer p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Petição Inicial: Do Zero ao Avançado</h1>
+        <p>Domine a Arte da Petição Inicial no Brasil</p>
+        <a href="#inscricao" style="color: white; background-color: #ff4081; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Inscreva-se Agora!</a>
+    </header>
+
+    <div class="container">
+        <div class="module">
+            <h2>Módulos do Curso</h2>
+            <ul>
+                <li><strong>Introdução à Petição Inicial:</strong> Definição e Importância, Estrutura Geral, Tipos de Petições.</li>
+                <li><strong>Elementos Essenciais da Petição Inicial:</strong> Título, Qualificação das Partes, Exposição dos Fatos, Fundamentos Jurídicos, Pedido e Valor da Causa.</li>
+                <li><strong>Direito Processual Civil Brasileiro:</strong> Princípios Gerais, Jurisdição e Competência, O Processo Civil e suas Etapas.</li>
+                <li><strong>Modelos de Petição Inicial:</strong> Exemplos Práticos e Análise de Casos Reais.</li>
+                <li><strong>Técnicas de Persuasão e Redação:</strong> Estrategicamente Convencendo o Juiz.</li>
+                <li><strong>Petição Inicial em Casos Específicos:</strong> Ações Comuns, Casos de Urgência, Ações Coletivas.</li>
+                <li><strong>Prática Profissional:</strong> Elaboração de Petições em Situações Reais.</li>
+            </ul>
+        </div>
+
+        <div class="bonus">
+            <h2>Bônus</h2>
+            <ul>
+                <li><strong>Contrarrazões:</strong> Modelos e Importância.</li>
+                <li><strong>Modelos de Petições Reais:</strong> Biblioteca de Modelos.</li>
+                <li><strong>Petição na Prática do Dia a Dia:</strong> Rotina e Ferramentas.</li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p>Fale conosco: (12) 3456-7890 | ola@grandesite.com.br</p>
+        <p>&copy; 2024 - Curso de Petição Inicial</p>
+    </footer>
+</body>
+</html>
